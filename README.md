@@ -1,4 +1,4 @@
-svg_d3_tester
+SVG/D3 Scatter Plot Node Count Tester
 =============
 
 SVG/D3 rendering test
